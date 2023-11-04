@@ -7,5 +7,4 @@
 
 <p align="center">
   <a href="https://twitter.com/arthur1cp"><img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg"></a>
-  <a href="https://youtube.com/@artynho1"><img alt="YouTube" title="YouTube" height="48" width="48" src="assets/youtube.svg"></a>
 </p>
