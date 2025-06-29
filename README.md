@@ -9,8 +9,8 @@ I’m a passionate DevOps Engineer with a strong background in building and mana
 - **DevOps & Infrastructure as Code**: Terraform, CloudFormation, AWS CDK  
 - **CI/CD Pipelines**: GitHub Actions, Jenkins, GitLab CI  
 - **Containerization & Orchestration**: Docker & Kubernetes (Helm Charts, Operators)  
-- **Monitoring & Logging**: Prometheus, Grafana, ELK/EFK Stack, Loki, Splunk (Enterprise & FX)  
-- **Cloud Platforms**: AWS (EC2, EKS, ECS, Lambda, RDS, S3), Azure, GCP  
+- **Monitoring & Logging**: Prometheus, Grafana, ELK/EFK Stack, Splunk (Enterprise & FX)  
+- **Cloud Platforms**: AWS, Azure, GCP  
 - **Automation & Scripting**: Bash, Python, Ansible  
 - **Backend & API Development**: Java (Spring Boot), Python (Django, Flask)  
 - **Frontend & SPA**: JavaScript/TypeScript, React, Next.js  
