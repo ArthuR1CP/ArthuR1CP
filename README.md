@@ -47,10 +47,19 @@ I’m a passionate DevOps Engineer with a strong background in building and mana
 
 ---
 
+## ⭐ Featured: planguard
+
+[![planguard](https://github-readme-stats.vercel.app/api/pin/?username=ArthuR1CP&repo=planguard)](https://github.com/ArthuR1CP/planguard)
+
+Catch destructive Terraform changes before they merge: one sticky PR comment with a risk score, and an optional merge block.
+
+---
+
 ## 🚀 Projects & Highlights
 
-- **art_blockchain**: A Python-based blockchain implementation showcasing consensus algorithms and smart-contract concepts.  
-- **slackmate**: A Slack Bot built with Python and Slack Bolt for automating team notifications and workflows.  
+- **[planguard](https://github.com/ArthuR1CP/planguard)**: A GitHub Action and CLI that reads `terraform plan` and flags risky changes in a single PR comment, such as databases being replaced, SSH opened to the world, or `"*"` in IAM. It can block the merge until someone reviews them.  
+- **[art_blockchain](https://github.com/ArthuR1CP/art_blockchain)**: A simple blockchain built from scratch in Python, with mining, transactions, and multi-node support through a Flask REST API.  
+- **[slackmate](https://github.com/ArthuR1CP/slackmate)**: A Python Slack bot built with Slack Bolt that replies in channels, handles custom commands, and creates channels.  
 - **DevOps Infrastructure**: Terraform modules and CloudFormation stacks for provisioning secure, multi-environment AWS infrastructure.  
 
 *Check out my [GitHub Repositories](https://github.com/arthur1cp?tab=repositories) for more! ✨*
