@@ -49,7 +49,7 @@ I’m a passionate DevOps Engineer with a strong background in building and mana
 
 ## ⭐ Featured: planguard
 
-[![planguard](https://github-readme-stats.vercel.app/api/pin/?username=ArthuR1CP&repo=planguard)](https://github.com/ArthuR1CP/planguard)
+<a href="https://github.com/ArthuR1CP/planguard"><img src="https://raw.githubusercontent.com/ArthuR1CP/planguard/main/docs/assets/banner.svg" alt="planguard" width="720"></a>
 
 Catch destructive Terraform changes before they merge: one sticky PR comment with a risk score, and an optional merge block.
 
